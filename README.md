@@ -56,7 +56,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 ```
 
 <div align="center">
-  <img src="/images/pull%20and%20start%20Jenkins.png" alt="Pull and start Jenkins">
+  <img src="/images/Screenshot%202025-04-02%20142823.png" alt="Pull and start Jenkins">
 </div>
 
 2. Get initial admin password:
@@ -66,7 +66,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 ```
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20143700.png" alt="Get initial admin password">
+  <img src="/images/Screenshot%202025-04-02%20142836.png" alt="Get initial admin password">
 </div>
 
 3. Access Jenkins:
@@ -74,7 +74,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Enter the initial admin password from step 2
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20143716.png" alt="Access Jenkins">
+  <img src="/images/Screenshot%202025-04-02%20143700.png" alt="Access Jenkins">
 </div>
 
 4. Install plugins:
@@ -82,7 +82,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Wait for installation to complete
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20143825.png" alt="Install plugins">
+  <img src="/images/Screenshot%202025-04-02%20143716.png" alt="Install plugins">
 </div>
 
 5. Create first admin user:
@@ -92,7 +92,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Click "Save and Continue"
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144545.png" alt="Create admin user">
+  <img src="/images/Screenshot%202025-04-02%20143825.png" alt="Create admin user">
 </div>
 
 6. Configure Jenkins instance:
@@ -100,7 +100,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Click "Save and Finish"
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144601.png" alt="Configure Jenkins">
+  <img src="/images/Screenshot%202025-04-02%20143838.png" alt="Configure Jenkins">
 </div>
 
 7. Create Pipeline Project:
@@ -117,7 +117,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
         - Click "Save"
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144642.png" alt="Create pipeline">
+  <img src="/images/Screenshot%202025-04-02%20144309.png" alt="Create pipeline">
 </div>
 
 8. Install and Configure Docker in Jenkins Container:
@@ -134,7 +134,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 ```
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144714.png" alt="Install Docker">
+  <img src="/images/Screenshot%202025-04-02%20144527.png" alt="Install Docker">
 </div>
 
 9. Install Docker Plugins:
@@ -146,7 +146,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
         - docker-build-step
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144309.png" alt="Install Docker plugins">
+  <img src="/images/Screenshot%202025-04-02%20144545.png" alt="Install Docker plugins">
 </div>
 
 -   Restart Jenkins after installation:
@@ -161,14 +161,14 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     ```
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20143838.png" alt="Restart Jenkins">
+  <img src="/images/Screenshot%202025-04-02%20144601.png" alt="Restart Jenkins">
 </div>
 
 10. Sign in to Jenkins:
     -   Use the credentials you created in step 5
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20143825.png" alt="Sign in to Jenkins">
+  <img src="/images/Screenshot%202025-04-02%20144620.png" alt="Sign in to Jenkins">
 </div>
 
 11. Run the Pipeline:
@@ -176,7 +176,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     -   Click "Build Now"
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144730.png" alt="Run Pipeline">
+  <img src="/images/Screenshot%202025-04-02%20144642.png" alt="Run Pipeline">
 </div>
 
 ### Step 2: Testing the Executable
