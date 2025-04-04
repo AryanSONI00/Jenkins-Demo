@@ -82,7 +82,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Wait for installation to complete
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20143716.png" alt="Install plugins">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/8256cd712f6ec95e3d7cf4189494e20ee80b5fae/images/Screenshot%202025-04-02%20142836.png" alt="Install plugins">
 </div>
 
 5. Create first admin user:
