@@ -82,7 +82,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Wait for installation to complete
 
 <div align="center">
-  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/8256cd712f6ec95e3d7cf4189494e20ee80b5fae/images/Screenshot%202025-04-02%20142836.png" alt="Install plugins">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20142823.png" alt="Install plugins">
 </div>
 
 5. Create first admin user:
@@ -92,7 +92,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Click "Save and Continue"
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20143825.png" alt="Create admin user">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20143700.png" alt="Create admin user">
 </div>
 
 6. Configure Jenkins instance:
@@ -100,8 +100,12 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Click "Save and Finish"
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20143838.png" alt="Configure Jenkins">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20143825.png" alt="Configure Jenkins">
 </div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20143838.png" alt="Configure Jenkins">
+</div>
+
 
 7. Create Pipeline Project:
     - Click "New Item"
@@ -115,9 +119,8 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
         - Enter repository URL: `https://github.com/TarakKatoch/Jenkins-Orchestration.git`
         - Enter branch specifier: `*/master`
         - Click "Save"
-
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144309.png" alt="Create pipeline">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144309.png" alt="Configure Jenkins">
 </div>
 
 8. Install and Configure Docker in Jenkins Container:
@@ -134,7 +137,16 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 ```
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144527.png" alt="Install Docker">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-03-26%20234447.png" alt="Install Docker">
+</div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-03-26%20234513.png" alt="Install Docker">
+</div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-03-26%20234615.png" alt="Install Docker">
+</div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-03-26%20234702.png" alt="Install Docker">
 </div>
 
 9. Install Docker Plugins:
@@ -146,7 +158,16 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
         - docker-build-step
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144545.png" alt="Install Docker plugins">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144527.png" alt="Install Docker plugins">
+</div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144545.png" alt="Install Docker plugins">
+</div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144601.png" alt="Install Docker plugins">
+</div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144620.png" alt="Install Docker plugins">
 </div>
 
 -   Restart Jenkins after installation:
@@ -176,7 +197,13 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     -   Click "Build Now"
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144642.png" alt="Run Pipeline">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144642.png" alt="Run Pipeline">
+</div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144659.png" alt="Run Pipeline">
+</div>
+<div align="center">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144714.png" alt="Run Pipeline">
 </div>
 
 ### Step 2: Testing the Executable
@@ -189,8 +216,9 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Click on `add2vals` to download it to your local machine
 
 <div align="center">
-  <img src="/images/Screenshot%202025-04-02%20144659.png" alt="Download executable">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/4d58c831da7a88a0338f6def2b935732b6bd7776/images/Screenshot%202025-04-02%20144714.png" alt="Download executable">
 </div>
+
 
 Note: The executable downloaded from Jenkins will be a Linux version since Jenkins runs in a Linux container.
 
@@ -227,9 +255,7 @@ Note: The executable downloaded from Jenkins will be a Linux version since Jenki
    ./add2vals 5 3
 ```
 
-<div align="center">
-  <img src="/images/Screenshot%202025-03-27%20034048.png" alt="Run executable 2">
-</div>
+
 
 ## 4. What Does PyInstaller Do?
 
