@@ -56,7 +56,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 ```
 
 <div align="center">
-  <img src="[/images/Screenshot%202025-04-02%20142823.png](https://github.com/AryanSONI00/Jenkins-Demo/blob/449d6eca5857b22ea3152dc198f5351faf52a4c7/images/Screenshot%202025-04-02%20143716.png)" alt="Pull and start Jenkins">
+  <img src="https://github.com/AryanSONI00/Jenkins-Demo/blob/449d6eca5857b22ea3152dc198f5351faf52a4c7/images/Screenshot%202025-04-02%20143716.png" alt="Pull and start Jenkins">
 </div>
 
 2. Get initial admin password:
